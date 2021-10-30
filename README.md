@@ -24,13 +24,13 @@ Also, there is a link in website where you can download the segmented masks in J
 
 #### Run in Colab
 
-1. Download the **DemoSegmenter.ipynb** file from my Github repository: https://github.com/zhengchenhao-solo/A-simple-API-realizing-2D-segmentations
+1. Download the **DemoSegmenter.ipynb** file from my Github repository: https://github.com/zhengchenhao-solo/An-API-Realizing-Image-Segmentation
 2. Construct a new folder called `template` in the working directory and put two html files: `index.html` and `login.html` in it.
 3. Just simply  follow the instruction in .ipynb file to run the code. 
 
 #### Run in local machine
 
-1. Download the **DemoSegmenter.py** file from my Github repository: https://github.com/zhengchenhao-solo/A-simple-API-realizing-2D-segmentations
+1. Download the **DemoSegmenter.py** file from my Github repository: https://github.com/zhengchenhao-solo/An-API-Realizing-Image-Segmentation
 
 2. After putting  the codes into your python project, run the following bash command:
 
